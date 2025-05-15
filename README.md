@@ -1,8 +1,8 @@
-<h4 align="left">I'm a french developer who has, and will always have, a lot to learn.<br><br>I'm currently learning Rust ®️</h4>
+<h1 align="center">Hi 👋</h1>
 
 ###
 
-<h1 align="center">Hi 👋</h1>
+<h4 align="left">I'm a french developer who has, and will always have, a lot to learn.<br><br>I'm currently learning Rust ®️</h4>
 
 ###
 
